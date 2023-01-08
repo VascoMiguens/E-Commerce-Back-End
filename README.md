@@ -34,19 +34,19 @@ This is the thirteenth challenge of a bootcamp where students had to implement:
 
 ## Usage
 
-- Add your credentials to the .env file.
+- Add your credentials to the .env file:
 
-  DB_NAME='ecommerce_db'
-  DB_USER='your database username'
-  DB_PASSWORD='your database password'
+    - DB_NAME='ecommerce_db'
+    - DB_USER='your database username'
+    - DB_PASSWORD='your database password'
 
-- Seed the database
+- Seed the database:
 
-  npm run seed
+    - npm run seed
 
 - To run the application:
 
-  npm run start
+   - npm run start
 
 - Use an API platform such as Postman or Insomnia to test the application
 
@@ -56,7 +56,7 @@ This is the thirteenth challenge of a bootcamp where students had to implement:
 
   Click on the following link to watch the video:
       
-      https://youtu.be/-5xdDkPGAdk  
+   https://youtu.be/-5xdDkPGAdk  
 
 ## Contributing
 
