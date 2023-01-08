@@ -20,7 +20,7 @@ This is the thirteenth challenge of a bootcamp where students had to implement:
 - To create the database MySql is used
 - The database schema used in this application is the following:
 
- <img src="https://github.com/VascoMiguens/Employee-Tracker/blob/master/assets/e-commerce-backend-diagram.png" width="800"/>
+ <img src="https://github.com/VascoMiguens/E-Commerce-Back-End/blob/master/assets/e-commerce-backend-diagram.png?raw=true" width="800"/>
 
 ## Installation
 
@@ -52,7 +52,7 @@ This is the thirteenth challenge of a bootcamp where students had to implement:
 
 - The following video demonstrates how to use the application:
 
-![til](https://github.com/VascoMiguens/MVC-Tech-Blog/blob/main/utils/dist/ecommerce_preview.gif)
+![til](https://github.com/VascoMiguens/E-Commerce-Back-End/blob/master/assets/ecommerce_preview.gif?raw=true)
 
   Click on the following link to watch the video:
       
